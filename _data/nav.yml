@@ -1,13 +1,8 @@
 - title: Home
   href: index.html
 
-- title: About
-  href: about.html
+- title: Projects
+  href: "#projects"
 
-- title: Posts
-  href: list/posts.html
-
-- title: Documentation
-  href: list/projects.html
-
-
+- title: Contact Me
+  href: "mailto:nk3098@columbia.edu"
