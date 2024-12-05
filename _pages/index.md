@@ -81,22 +81,6 @@ In my free time, you can also find me running a **community kitchen** or charity
 <section id="projects" class="projects-section">
   <div class="project-list">
     <!-- Project 1 -->
-    <div class="project-item">
-      <img class="project-thumbnail" src="./theme/img/home_page/project1.jpg" alt="Project Thumbnail">
-      <div class="project-details">
-        <h3 class="project-title">Project Title 1</h3>
-        <p class="project-description">
-          Brief description of the project highlighting key points and technologies used.
-        </p>
-        <p class="project-authors">
-          Collaborators or contributors to the project (if any).
-        </p>
-        <div class="project-links">
-          <a href="#" class="btn">GitHub</a>
-          <a href="#" class="btn">Demo</a>
-        </div>
-      </div>
-    </div>
     <!-- Project 2 -->
     <div class="project-item">
       <img class="project-thumbnail" src="./theme/img/irl res.png" alt="Project Thumbnail">
@@ -113,7 +97,7 @@ In my free time, you can also find me running a **community kitchen** or charity
     </div>
     <!-- Add more projects as needed -->
     <div class="project-item">
-      <img class="project-thumbnail" src="./theme/img/irlres.png" alt="Project Thumbnail">
+      <img class="project-thumbnail" src="./theme/img/map.png" alt="Project Thumbnail">
       <div class="project-details">
         <h3 class="project-title">Dynamic Subway ride pricing model</h3>
         <p class="project-description">
