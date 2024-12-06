@@ -1,5 +1,5 @@
 - caption: Resume
-  href: ./theme/download/cvNossaiba.pdf
+  href: "{{ site.baseurl }}/theme/download/cvNossaiba.pdf"
   icon: entypo/document.svg
 
 - caption: Email
@@ -13,10 +13,6 @@
 - caption: GitHub
   href: https://github.com/nossaiba-kheiri
   icon: entypo/github-with-circle.svg
-
-#- caption: Medium
-#  href: https://medium.com/@selimamrouni
-#  icon: entypo/medium-with-circle.svg
 
 - caption: New York
   href: https://www.google.co.uk/maps/place/209+W+108th+St,+New+York,+NY+10025
